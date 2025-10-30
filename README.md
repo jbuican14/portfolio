@@ -1,4 +1,4 @@
-# Jutiporn Buican - Portfolio
+# Juti Buican - Portfolio
 
 A modern React portfolio website built with Vite and Tailwind CSS.
 
@@ -82,3 +82,5 @@ portfolio/
 ## License
 
 ISC
+
+Note: using Clude cli to support upgrade this project for repetitive tasks.
