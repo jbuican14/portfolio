@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-      - react-portfolio-improvements
   workflow_dispatch:
 
 permissions:
