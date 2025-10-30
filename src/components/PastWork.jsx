@@ -61,6 +61,10 @@ const PastWork = () => {
         <p className="text-lg mb-8 italic text-gray-600">
           Projects during my time at ad agency (Verizon Media/AOL)
         </p>
+        <p>
+          There are many more projects that I involved since the era of FLASH
+          (actionscript 3 flash) to html*{" "}
+        </p>
 
         <div className="space-y-8">
           {projects.map((project, index) => (
