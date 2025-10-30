@@ -2,32 +2,32 @@ const PastWork = () => {
   const projects = [
     {
       title: "Sketchfab 3D ad campaign run in the UK",
-      video: "/img/3D.mp4",
+      video: "/portfolio/img/3D.mp4",
       link: "https://emea.adshowcase.verizonmedia.com/detail/583",
     },
     {
       title: "3D with geolocation campaign run in the UK",
-      video: "/img/3DPress.mp4",
+      video: "/portfolio/img/3DPress.mp4",
       link: "https://emea.adshowcase.verizonmedia.com/detail/569",
     },
     {
       title: "Carousel animation campaign run in Germany",
-      video: "/img/Carousel.mp4",
+      video: "/portfolio/img/Carousel.mp4",
       link: "https://emea.adshowcase.verizonmedia.com/detail/582",
     },
     {
       title: "3D and AR project for the Huffington Post UK",
-      video: "/img/AR.mp4",
+      video: "/portfolio/img/AR.mp4",
       link: "https://www.huffingtonpost.co.uk/entry/we-opened-the-best-beauty-advent-calendars-2019-who-came-out-on-top_uk_5d8b39b9e4b0c6d0cef43419?1wt&guccounter=2",
     },
     {
       title: "360 animation campaign run in Greece",
-      video: "/img/360.mp4",
+      video: "/portfolio/img/360.mp4",
       link: "https://emea.adshowcase.verizonmedia.com/detail/563",
     },
     {
       title: "Video + gallery campaign run in Italy",
-      video: "/img/video-gallery.mp4",
+      video: "/portfolio/img/video-gallery.mp4",
       link: "https://emea.adshowcase.verizonmedia.com/detail/552",
     },
   ];
